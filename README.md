@@ -14,6 +14,6 @@ Entretanto, parece haver termos muito frequentes, como artigos, preposições et
 
 Essa é uma lei geral que que ocorre em todo o texto de produção humana e, importante, em qualquer língua. Esse princípio pode ser então empregado desde para decifrar códigos e texto em línguas antigas, como em modernos sistemas de mineração de texto (search engines, bibliotecas digitais, classificação automática de conteúdo etc.).
 
-## Erxercício:
+## Exercício:
 
 Confirmar a lei de Zipf para um texto selecionado.  
