@@ -14,6 +14,6 @@ Entretanto, parece haver termos muito frequentes, como artigos, preposições et
 
 Essa é uma lei geral que que ocorre em todo o texto de produção humana e, importante, em qualquer língua. Esse princípio pode ser então empregado desde para decifrar códigos e texto em línguas antigas, como em modernos sistemas de mineração de texto (search engines, bibliotecas digitais, classificação automática de conteúdo etc.).
 
-## Questão:
+## Erxercício:
 
-Implemente um programa em Python (Python notebook) que constrói um dicionário de termos de um documento (mínimo 1000 palavras) com a frequência de cada termo permitindo confirmar a lei de Zipf para o documento selecionado.  
+Confirmar a lei de Zipf para um texto selecionado.  
