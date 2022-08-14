@@ -1,0 +1,1 @@
+# exercicio-lei-de-zipf
